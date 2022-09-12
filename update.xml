@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>10.0.0.3</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <url>https://github.com/ITDSoftwareLtd/ITDCRM/raw/main/AnyCPU_Release.msi</url>
+  <changelog>https://raw.githubusercontent.com/ITDSoftwareLtd/ITDCRM/main/README.md</changelog>
   <mandatory>false</mandatory>
 </item>
